@@ -25,6 +25,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-./sound_api/weights
-./Model_WAV
+/sound_api/weights
+/Model_WAV/*
 
